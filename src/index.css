@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Header {
+  background-image: url("../public/Header/Sub\ Container\ \(1\).png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.navlink_header a.active {
+  background-color: #1a1a1a;
+  color: white;
+}

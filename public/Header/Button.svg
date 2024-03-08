@@ -1,0 +1,15 @@
+<svg width="54.000000" height="54.000000" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip291_4952">
+			<rect id="Icon" width="24.000000" height="24.000000" transform="translate(15.000000 15.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Button" rx="9.000000" width="51.000000" height="51.000000" transform="translate(1.500000 1.500000)" fill="#1A1A1A" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip291_4952)">
+		<path id="Vector (Stroke)" d="M18 21.75C18 21.3357 18.3359 21 18.75 21L35.25 21C35.6641 21 36 21.3357 36 21.75C36 22.1643 35.6641 22.5 35.25 22.5L18.75 22.5C18.3359 22.5 18 22.1643 18 21.75ZM18 27C18 26.5857 18.3359 26.25 18.75 26.25L35.25 26.25C35.6641 26.25 36 26.5857 36 27C36 27.4143 35.6641 27.75 35.25 27.75L18.75 27.75C18.3359 27.75 18 27.4143 18 27ZM26.25 32.25C26.25 31.8357 26.5859 31.5 27 31.5L35.25 31.5C35.6641 31.5 36 31.8357 36 32.25C36 32.6643 35.6641 33 35.25 33L27 33C26.5859 33 26.25 32.6643 26.25 32.25Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+	<rect id="Button" rx="9.000000" width="51.000000" height="51.000000" transform="translate(1.500000 1.500000)" stroke="#262626" stroke-opacity="1.000000" stroke-width="3.000000"/>
+</svg>
